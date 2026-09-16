@@ -1,0 +1,23 @@
+{
+  "repo": "disk-drill-pro",
+  "product": "Disk Drill Pro",
+  "kind": "recovery",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "disk-recovery",
+  "topics": [
+    "disk-drill-professional",
+    "volume-scan-map",
+    "file-preview-restore",
+    "disk-drill-windows",
+    "partition-recovery-2026",
+    "how-to-install-disk-drill",
+    "disk-drill-desktop-package",
+    "export-filter-suite",
+    "photo-preview-desk",
+    "disk-drill-complete"
+  ],
+  "site": "toolix.me"
+}
